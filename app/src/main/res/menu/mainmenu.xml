@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Take a Snap" android:id="@+id/takesnap" />
+
+    <item android:title="Choose Your Avatar" android:id="@+id/avataar"/>
+    <item android:title="Logout" android:id="@+id/logout" />
+</menu>
